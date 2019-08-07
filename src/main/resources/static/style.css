@@ -1,0 +1,22 @@
+
+th, td {
+  font: font-family: 'Maven Pro', sans-serif;
+  padding: 25px;
+  text-align: left;
+  color: #121212;
+}
+
+h1 {
+	font: font-family: 'Maven Pro', sans-serif;
+	padding: 20px;
+	color: #000000;
+}
+
+body {
+	margin: 25px;
+	background-image: linear-gradient(to right, violet, white); 
+}
+
+a {
+	color: #050503;
+}
